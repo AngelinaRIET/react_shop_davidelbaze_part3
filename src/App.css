@@ -1,0 +1,9 @@
+.productList {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+}
+.card {
+  width: 18rem;
+  margin: 2rem;
+}
